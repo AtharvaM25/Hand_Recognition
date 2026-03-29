@@ -48,5 +48,5 @@ while (True):
         counter += 1
         timestamp = int(time.time())
         cv2.imwrite(
-            f"C:/Users/athar/Projects/Hand Gesture Recognition/Images/Z/image_{counter}_{timestamp}.png", imgWhite)
+            f"C:/Users/athar/Projects/Images for HandGesture/Images_V2/Y/image_{counter}_{timestamp}.png", imgWhite)
         print(counter)
